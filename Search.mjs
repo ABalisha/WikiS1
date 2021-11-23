@@ -2,7 +2,7 @@
 import morgan from 'morgan'
 import fetch from 'node-fetch'
 import _ from 'lodash';
-"use strict";
+"use strict"; //gfdsghsdg
 let processes = process.argv
 _.map(processes,async val => { 
     if(val == 'sq'){
