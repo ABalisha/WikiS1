@@ -22,7 +22,7 @@ _.map(processes,async val => {
         
         }
     }
-}) //comment  fgdsgsgsdgf
+}) //comment
 _.map(processes,async val => { 
     if(val == 'en'){
         const baseURLsq = "https://en.wikipedia.org/";
