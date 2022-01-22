@@ -11,3 +11,7 @@ npm install -g wikipediaarticlesearchab
 USAGE:
 SearchWiki 'SearchQuery' sq or en
 last parameter is always the language English or Albanian
+
+example use
+
+SearchWiki Michael Jordan en 
